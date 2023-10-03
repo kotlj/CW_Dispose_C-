@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\CW_Despos_C#\CW_Despos_C#\bin\Debug\CW_Despos_C#.exe.config
+C:\Users\Admin\source\repos\CW_Despos_C#\CW_Despos_C#\bin\Debug\CW_Despos_C#.exe
+C:\Users\Admin\source\repos\CW_Despos_C#\CW_Despos_C#\bin\Debug\CW_Despos_C#.pdb
+C:\Users\Admin\source\repos\CW_Despos_C#\CW_Despos_C#\obj\Debug\CW_Despos_C#.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CW_Despos_C#\CW_Despos_C#\obj\Debug\CW_Despos_C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\CW_Despos_C#\CW_Despos_C#\obj\Debug\CW_Despos_C#.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CW_Despos_C#\CW_Despos_C#\obj\Debug\CW_Despos_C#.exe
+C:\Users\Admin\source\repos\CW_Despos_C#\CW_Despos_C#\obj\Debug\CW_Despos_C#.pdb
